@@ -1,0 +1,19 @@
+Nombres y apellidos de los 3 miembros:
+
+Alberto Algaba Calderón
+Rama: funcionalidad-inicial
+Tarea a realizar: crear repositorio, compartirlo con los integrantes del
+grupo y crear documento txt con los datos de los integrantes del equipo,
+clonar el repositorio a el equipo local con git y hacer comit y push en git. 
+
+Alejandro Arévalo Merlo
+Rama: funcionalidad-documento
+Tarea a realizar: crear el documento base descargando los cambios hechos,
+crear su rama funcionalidad-documento, y crear un documento word y
+redactarlo, guardar los cambios y hacer comit y push en git.
+
+Javier Jiménez Ortas
+Rama:funcionalidad-documento
+Tarea a realizar: cambiart la rama donde esta el documento word y abrirlo, y
+responder a las tres preguntas faltantes, guardar los cambios, del documento
+y hacer comit y push en git.
